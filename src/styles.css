@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.counter {
+  color: green;
+  font-weight: bold;
+  font-size: 25px;
+  margin-left: 10px;
+}
+button {
+  margin: 5px;
+}
